@@ -4,7 +4,7 @@
 
 
 
-![mmexport776a01eb53b246d09a2e2832078a992c_1634015423711_edit_197868430559910.png](:/a82e2c36124247c1af98dddf61205706)
+![mmexport776a01eb53b246d09a2e2832078a992c_1634015423711_edit_197868430559910.png](https://i.loli.net/2021/10/12/XDP1ticwbGnj5MO.png)
 
 抓取变量
 仅演示安卓小黄鸟
@@ -13,7 +13,7 @@
 
 
 
-![dYfyXPHYjkJVGqwJhEO2ZA.png](:/b10e5f9393f043aa99833456bdcc4f0f)
+![dYfyXPHYjkJVGqwJhEO2ZA.png](https://i.loli.net/2021/10/12/OmesvEHo6qPG1Xr.png)
 
 
 
