@@ -1,8 +1,12 @@
 # 加油鸭鸭
 
-加油鸭鸭脚本教程
+
 
 # 金银手指同样套路 链接  https://github.com/ray154856235/jinyinshouzhi/blob/main/README.md
+
+
+
+# 下面是加油鸭鸭脚本教程
 
 # 使用微信扫描二维码
 
