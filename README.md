@@ -1,4 +1,6 @@
-# 加油鸭鸭阅读
+# 加油鸭鸭
+
+加油鸭鸭脚本教程
 
 金银手指同样的套路 链接  https://github.com/ray154856235/jinyinshouzhi/blob/main/README.md
 
