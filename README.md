@@ -28,6 +28,7 @@
 
 。
 进入青龙面板，环境变量，添加变量。
+
 ● 必要变量：
 `wx_jyy_token`
 
@@ -36,6 +37,7 @@
 `wx_jyy_User_Agent`
 
 
+![p6lxjh52GP2FWa-LEyJBQg.png](https://i.loli.net/2021/10/12/bWRNdFxs3M5lZeq.png)
 多账号使用 #  隔开
 
 脚本拉取
