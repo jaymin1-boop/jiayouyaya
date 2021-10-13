@@ -9,10 +9,11 @@
 # 下面是加油鸭鸭脚本教程
 
 # 使用微信扫描二维码
+![image](https://user-images.githubusercontent.com/82143246/137112503-5a7774bb-e64f-4c27-bbdd-c38be1d726e8.png)
 
 
 
-![mmexport776a01eb53b246d09a2e2832078a992c_1634015423711_edit_197868430559910.png](https://i.loli.net/2021/10/12/XDP1ticwbGnj5MO.png)
+
 
 抓取变量
 仅演示安卓小黄鸟
